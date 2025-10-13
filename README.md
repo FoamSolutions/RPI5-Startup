@@ -1,4 +1,4 @@
-git clone https://github.com/FoamSolutions/foami_startup.git /home/Foami/foami_startup
+git clone https://github.com/FoamSolutions/RPI5-Startup.git /home/Foami/foami_startup
 
 cd /home/Foami/foami_startup
 
@@ -43,10 +43,6 @@ eth1 fixed at 10.0.0.12/24
 IPv6 disabled, no gateway/DNS, “never default” routing
 
 Auto-connects on boot via NetworkManager
-
-⚙️ Root Crontab auto-created and updated
-
-Runs the UPS watchdog script every minute
 
 🧾 CODESYS Control Config patcher
 
