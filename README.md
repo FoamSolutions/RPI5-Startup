@@ -1,6 +1,6 @@
 git clone https://github.com/FoamSolutions/RPI5-Startup.git /home/Foami/RPI5-Startup
 
-cd /home/Foami/foami_startup
+cd /home/Foami/RPI5-Startup
 
 sudo chmod +x foami_setup.sh
 
